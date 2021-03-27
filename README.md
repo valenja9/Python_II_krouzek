@@ -11,15 +11,12 @@
 2) List a opakovani  * [colab_z_druhe_lekce]()
 3) Podminky, tuple   * [colab_z_treti_lekce]()
 4) Range, forcyklus, slovnik * [colab_z_ctvrte_lekce]()
-5) While cyklus a ulozeni do souboru * [colab_z_pate_lekce]()
-6) Enumerate a cykly, opakovani * [colab_z_seste_lekce]()
-7) Funkce * [colab_z_sedme_lekce]()
-8) Funkce * [colab_z_osme_lekce]()
-9) Pycharm a git a prikazova radka  * [Instalace Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
-                                    * [Instalace Python](https://www.python.org/downloads/)
-                                    * [git registrace](https://github.com/)
-                                    * [colab_z_devate_lekce]()
-10) Sys modul a os    *[colab_z_desate_lekce]()
+5) While cyklus* [colab_z_pate_lekce]()
+6) BinarkaI * [colab_z_seste_lekce]()
+7) BinarkaII + jak se ucit jazyky * [colab_z_sedme_lekce]()
+8) Opakování a porovnání for a while * [colab_z_osme_lekce]()
+9) Funkce a Morzeovka
+10) Funkce   
 11) Zaverecny projekt * [colab_z_jedenacte_lekce]()
 12) Zaverecny projekt * [colab_z_dvanacte_lekce]()
 
@@ -32,9 +29,12 @@
 4) API PocasiII * []()
 5) API YelpI * []()
 6) API YelpII * []()
-7) PandasI * []()
+7) Pandas + exe soubor* []()
 8) Web scrapingI * []()
 9) Web scrapingII * []()
-10) Web scrapingIII * []()
-11) Zaverecny projektI * []()
-12) Zaverecny projektII * []()
+10) Selenium
+11) Zaverecny projekt
+12) Závěrečný projekt
+13) Web scrapingIII * []()
+14) Zaverecny projektI * []()
+15) Zaverecny projektII * []()
