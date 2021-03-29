@@ -35,6 +35,3 @@
 10) Selenium
 11) Zaverecny projekt
 12) Závěrečný projekt
-13) Web scrapingIII * []()
-14) Zaverecny projektI * []()
-15) Zaverecny projektII * []()
